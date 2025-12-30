@@ -1,0 +1,1920 @@
+{
+  "total_pixels": 30720000,
+  "num_images": 100,
+  "statistics": {
+    "0": {
+      "class_id": 0,
+      "class_name": "background",
+      "total_pixels": 30617632,
+      "overall_proportion": 0.9966677083333333,
+      "pixel_statistics": {
+        "mean": 306176.32,
+        "std": 687.7441803461516,
+        "median": 306494.5,
+        "min": 304689,
+        "max": 306893
+      },
+      "proportion_statistics": {
+        "mean": 0.9966677083333333,
+        "std": 0.002238750587064297,
+        "median": 0.9977034505208333
+      },
+      "object_statistics": {
+        "total": 0,
+        "mean": 0.0,
+        "std": 0.0,
+        "median": 0.0,
+        "min": 0,
+        "max": 0
+      },
+      "per_image_details": [
+        {
+          "image_name": "set1_10.png",
+          "pixel_count": 306220,
+          "object_count": 0,
+          "proportion": 0.9968098958333333
+        },
+        {
+          "image_name": "set1_12.png",
+          "pixel_count": 306135,
+          "object_count": 0,
+          "proportion": 0.996533203125
+        },
+        {
+          "image_name": "set1_13.png",
+          "pixel_count": 306260,
+          "object_count": 0,
+          "proportion": 0.9969401041666667
+        },
+        {
+          "image_name": "set2_0.png",
+          "pixel_count": 306527,
+          "object_count": 0,
+          "proportion": 0.9978092447916667
+        },
+        {
+          "image_name": "set2_1.png",
+          "pixel_count": 306800,
+          "object_count": 0,
+          "proportion": 0.9986979166666666
+        },
+        {
+          "image_name": "set2_11.png",
+          "pixel_count": 306777,
+          "object_count": 0,
+          "proportion": 0.998623046875
+        },
+        {
+          "image_name": "set2_12.png",
+          "pixel_count": 306703,
+          "object_count": 0,
+          "proportion": 0.9983821614583334
+        },
+        {
+          "image_name": "set2_13.png",
+          "pixel_count": 306542,
+          "object_count": 0,
+          "proportion": 0.9978580729166666
+        },
+        {
+          "image_name": "set2_14.png",
+          "pixel_count": 306521,
+          "object_count": 0,
+          "proportion": 0.9977897135416667
+        },
+        {
+          "image_name": "set2_15.png",
+          "pixel_count": 306454,
+          "object_count": 0,
+          "proportion": 0.9975716145833333
+        },
+        {
+          "image_name": "set2_16.png",
+          "pixel_count": 306628,
+          "object_count": 0,
+          "proportion": 0.9981380208333334
+        },
+        {
+          "image_name": "set2_17.png",
+          "pixel_count": 306518,
+          "object_count": 0,
+          "proportion": 0.9977799479166667
+        },
+        {
+          "image_name": "set2_19.png",
+          "pixel_count": 306425,
+          "object_count": 0,
+          "proportion": 0.9974772135416666
+        },
+        {
+          "image_name": "set2_2.png",
+          "pixel_count": 306473,
+          "object_count": 0,
+          "proportion": 0.9976334635416667
+        },
+        {
+          "image_name": "set2_20.png",
+          "pixel_count": 306507,
+          "object_count": 0,
+          "proportion": 0.997744140625
+        },
+        {
+          "image_name": "set2_21.png",
+          "pixel_count": 306482,
+          "object_count": 0,
+          "proportion": 0.9976627604166667
+        },
+        {
+          "image_name": "set2_22.png",
+          "pixel_count": 306416,
+          "object_count": 0,
+          "proportion": 0.9974479166666667
+        },
+        {
+          "image_name": "set2_23.png",
+          "pixel_count": 306381,
+          "object_count": 0,
+          "proportion": 0.997333984375
+        },
+        {
+          "image_name": "set2_28.png",
+          "pixel_count": 306734,
+          "object_count": 0,
+          "proportion": 0.9984830729166667
+        },
+        {
+          "image_name": "set2_29.png",
+          "pixel_count": 306434,
+          "object_count": 0,
+          "proportion": 0.9975065104166667
+        },
+        {
+          "image_name": "set2_30.png",
+          "pixel_count": 306427,
+          "object_count": 0,
+          "proportion": 0.9974837239583333
+        },
+        {
+          "image_name": "set2_31.png",
+          "pixel_count": 306533,
+          "object_count": 0,
+          "proportion": 0.9978287760416666
+        },
+        {
+          "image_name": "set2_32.png",
+          "pixel_count": 306510,
+          "object_count": 0,
+          "proportion": 0.99775390625
+        },
+        {
+          "image_name": "set2_33.png",
+          "pixel_count": 306513,
+          "object_count": 0,
+          "proportion": 0.997763671875
+        },
+        {
+          "image_name": "set2_34.png",
+          "pixel_count": 306493,
+          "object_count": 0,
+          "proportion": 0.9976985677083333
+        },
+        {
+          "image_name": "set2_36.png",
+          "pixel_count": 306627,
+          "object_count": 0,
+          "proportion": 0.998134765625
+        },
+        {
+          "image_name": "set2_37.png",
+          "pixel_count": 306887,
+          "object_count": 0,
+          "proportion": 0.9989811197916667
+        },
+        {
+          "image_name": "set2_40.png",
+          "pixel_count": 306595,
+          "object_count": 0,
+          "proportion": 0.9980305989583333
+        },
+        {
+          "image_name": "set2_41.png",
+          "pixel_count": 306408,
+          "object_count": 0,
+          "proportion": 0.997421875
+        },
+        {
+          "image_name": "set2_42.png",
+          "pixel_count": 306458,
+          "object_count": 0,
+          "proportion": 0.9975846354166666
+        },
+        {
+          "image_name": "set2_43.png",
+          "pixel_count": 306893,
+          "object_count": 0,
+          "proportion": 0.9990006510416667
+        },
+        {
+          "image_name": "set2_44.png",
+          "pixel_count": 306468,
+          "object_count": 0,
+          "proportion": 0.9976171875
+        },
+        {
+          "image_name": "set2_45.png",
+          "pixel_count": 306469,
+          "object_count": 0,
+          "proportion": 0.9976204427083334
+        },
+        {
+          "image_name": "set2_46.png",
+          "pixel_count": 306675,
+          "object_count": 0,
+          "proportion": 0.998291015625
+        },
+        {
+          "image_name": "set2_47.png",
+          "pixel_count": 306613,
+          "object_count": 0,
+          "proportion": 0.9980891927083333
+        },
+        {
+          "image_name": "set2_48.png",
+          "pixel_count": 306558,
+          "object_count": 0,
+          "proportion": 0.99791015625
+        },
+        {
+          "image_name": "set2_49.png",
+          "pixel_count": 306504,
+          "object_count": 0,
+          "proportion": 0.997734375
+        },
+        {
+          "image_name": "set2_5.png",
+          "pixel_count": 306527,
+          "object_count": 0,
+          "proportion": 0.9978092447916667
+        },
+        {
+          "image_name": "set2_50.png",
+          "pixel_count": 306486,
+          "object_count": 0,
+          "proportion": 0.99767578125
+        },
+        {
+          "image_name": "set2_51.png",
+          "pixel_count": 306483,
+          "object_count": 0,
+          "proportion": 0.997666015625
+        },
+        {
+          "image_name": "set2_52.png",
+          "pixel_count": 306495,
+          "object_count": 0,
+          "proportion": 0.997705078125
+        },
+        {
+          "image_name": "set2_53.png",
+          "pixel_count": 306708,
+          "object_count": 0,
+          "proportion": 0.9983984375
+        },
+        {
+          "image_name": "set2_54.png",
+          "pixel_count": 306620,
+          "object_count": 0,
+          "proportion": 0.9981119791666667
+        },
+        {
+          "image_name": "set2_55.png",
+          "pixel_count": 306579,
+          "object_count": 0,
+          "proportion": 0.997978515625
+        },
+        {
+          "image_name": "set2_56.png",
+          "pixel_count": 306790,
+          "object_count": 0,
+          "proportion": 0.9986653645833333
+        },
+        {
+          "image_name": "set2_58.png",
+          "pixel_count": 306494,
+          "object_count": 0,
+          "proportion": 0.9977018229166666
+        },
+        {
+          "image_name": "set2_59.png",
+          "pixel_count": 306462,
+          "object_count": 0,
+          "proportion": 0.99759765625
+        },
+        {
+          "image_name": "set2_60.png",
+          "pixel_count": 306430,
+          "object_count": 0,
+          "proportion": 0.9974934895833333
+        },
+        {
+          "image_name": "set2_62.png",
+          "pixel_count": 306536,
+          "object_count": 0,
+          "proportion": 0.9978385416666666
+        },
+        {
+          "image_name": "set2_63.png",
+          "pixel_count": 306539,
+          "object_count": 0,
+          "proportion": 0.9978483072916666
+        },
+        {
+          "image_name": "set2_64.png",
+          "pixel_count": 306463,
+          "object_count": 0,
+          "proportion": 0.9976009114583333
+        },
+        {
+          "image_name": "set2_65.png",
+          "pixel_count": 306724,
+          "object_count": 0,
+          "proportion": 0.9984505208333333
+        },
+        {
+          "image_name": "set2_66.png",
+          "pixel_count": 306779,
+          "object_count": 0,
+          "proportion": 0.9986295572916667
+        },
+        {
+          "image_name": "set2_68.png",
+          "pixel_count": 306718,
+          "object_count": 0,
+          "proportion": 0.9984309895833333
+        },
+        {
+          "image_name": "set2_7.png",
+          "pixel_count": 306572,
+          "object_count": 0,
+          "proportion": 0.9979557291666666
+        },
+        {
+          "image_name": "set2_70.png",
+          "pixel_count": 306841,
+          "object_count": 0,
+          "proportion": 0.9988313802083333
+        },
+        {
+          "image_name": "set2_72.png",
+          "pixel_count": 306482,
+          "object_count": 0,
+          "proportion": 0.9976627604166667
+        },
+        {
+          "image_name": "set2_74.png",
+          "pixel_count": 306582,
+          "object_count": 0,
+          "proportion": 0.99798828125
+        },
+        {
+          "image_name": "set2_75.png",
+          "pixel_count": 306547,
+          "object_count": 0,
+          "proportion": 0.9978743489583334
+        },
+        {
+          "image_name": "set2_76.png",
+          "pixel_count": 306518,
+          "object_count": 0,
+          "proportion": 0.9977799479166667
+        },
+        {
+          "image_name": "set2_77.png",
+          "pixel_count": 306677,
+          "object_count": 0,
+          "proportion": 0.9982975260416667
+        },
+        {
+          "image_name": "set2_78.png",
+          "pixel_count": 306627,
+          "object_count": 0,
+          "proportion": 0.998134765625
+        },
+        {
+          "image_name": "set2_79.png",
+          "pixel_count": 306683,
+          "object_count": 0,
+          "proportion": 0.9983170572916666
+        },
+        {
+          "image_name": "set2_80.png",
+          "pixel_count": 306722,
+          "object_count": 0,
+          "proportion": 0.9984440104166666
+        },
+        {
+          "image_name": "set2_81.png",
+          "pixel_count": 306602,
+          "object_count": 0,
+          "proportion": 0.9980533854166667
+        },
+        {
+          "image_name": "set2_84.png",
+          "pixel_count": 306436,
+          "object_count": 0,
+          "proportion": 0.9975130208333334
+        },
+        {
+          "image_name": "set2_86.png",
+          "pixel_count": 306812,
+          "object_count": 0,
+          "proportion": 0.9987369791666667
+        },
+        {
+          "image_name": "set2_87.png",
+          "pixel_count": 306554,
+          "object_count": 0,
+          "proportion": 0.9978971354166667
+        },
+        {
+          "image_name": "set2_89.png",
+          "pixel_count": 306620,
+          "object_count": 0,
+          "proportion": 0.9981119791666667
+        },
+        {
+          "image_name": "set2_9.png",
+          "pixel_count": 306558,
+          "object_count": 0,
+          "proportion": 0.99791015625
+        },
+        {
+          "image_name": "set2_92.png",
+          "pixel_count": 306566,
+          "object_count": 0,
+          "proportion": 0.9979361979166667
+        },
+        {
+          "image_name": "set2_94.png",
+          "pixel_count": 306604,
+          "object_count": 0,
+          "proportion": 0.9980598958333333
+        },
+        {
+          "image_name": "set2_96.png",
+          "pixel_count": 306455,
+          "object_count": 0,
+          "proportion": 0.9975748697916667
+        },
+        {
+          "image_name": "set2_98.png",
+          "pixel_count": 306711,
+          "object_count": 0,
+          "proportion": 0.998408203125
+        },
+        {
+          "image_name": "set2_99.png",
+          "pixel_count": 306706,
+          "object_count": 0,
+          "proportion": 0.9983919270833334
+        },
+        {
+          "image_name": "set4_train_100.png",
+          "pixel_count": 304997,
+          "object_count": 0,
+          "proportion": 0.9928287760416666
+        },
+        {
+          "image_name": "set4_train_102.png",
+          "pixel_count": 305084,
+          "object_count": 0,
+          "proportion": 0.9931119791666667
+        },
+        {
+          "image_name": "set4_train_111.png",
+          "pixel_count": 304905,
+          "object_count": 0,
+          "proportion": 0.992529296875
+        },
+        {
+          "image_name": "set4_train_115.png",
+          "pixel_count": 305194,
+          "object_count": 0,
+          "proportion": 0.9934700520833334
+        },
+        {
+          "image_name": "set4_train_120.png",
+          "pixel_count": 305153,
+          "object_count": 0,
+          "proportion": 0.9933365885416666
+        },
+        {
+          "image_name": "set4_train_125.png",
+          "pixel_count": 305125,
+          "object_count": 0,
+          "proportion": 0.9932454427083334
+        },
+        {
+          "image_name": "set4_train_127.png",
+          "pixel_count": 304895,
+          "object_count": 0,
+          "proportion": 0.9924967447916667
+        },
+        {
+          "image_name": "set4_train_130.png",
+          "pixel_count": 304797,
+          "object_count": 0,
+          "proportion": 0.992177734375
+        },
+        {
+          "image_name": "set4_train_133.png",
+          "pixel_count": 304849,
+          "object_count": 0,
+          "proportion": 0.9923470052083333
+        },
+        {
+          "image_name": "set4_train_135.png",
+          "pixel_count": 304890,
+          "object_count": 0,
+          "proportion": 0.99248046875
+        },
+        {
+          "image_name": "set4_train_160.png",
+          "pixel_count": 304730,
+          "object_count": 0,
+          "proportion": 0.9919596354166667
+        },
+        {
+          "image_name": "set4_train_163.png",
+          "pixel_count": 304689,
+          "object_count": 0,
+          "proportion": 0.991826171875
+        },
+        {
+          "image_name": "set4_train_170.png",
+          "pixel_count": 304970,
+          "object_count": 0,
+          "proportion": 0.9927408854166667
+        },
+        {
+          "image_name": "set4_train_172.png",
+          "pixel_count": 304764,
+          "object_count": 0,
+          "proportion": 0.9920703125
+        },
+        {
+          "image_name": "set4_train_173.png",
+          "pixel_count": 304843,
+          "object_count": 0,
+          "proportion": 0.9923274739583333
+        },
+        {
+          "image_name": "set4_train_50.png",
+          "pixel_count": 305225,
+          "object_count": 0,
+          "proportion": 0.9935709635416666
+        },
+        {
+          "image_name": "set4_train_52.png",
+          "pixel_count": 305281,
+          "object_count": 0,
+          "proportion": 0.9937532552083334
+        },
+        {
+          "image_name": "set4_train_53.png",
+          "pixel_count": 305202,
+          "object_count": 0,
+          "proportion": 0.99349609375
+        },
+        {
+          "image_name": "set4_train_60.png",
+          "pixel_count": 305141,
+          "object_count": 0,
+          "proportion": 0.9932975260416667
+        },
+        {
+          "image_name": "set4_train_63.png",
+          "pixel_count": 305025,
+          "object_count": 0,
+          "proportion": 0.992919921875
+        },
+        {
+          "image_name": "set4_train_77.png",
+          "pixel_count": 304922,
+          "object_count": 0,
+          "proportion": 0.9925846354166666
+        },
+        {
+          "image_name": "set4_train_80.png",
+          "pixel_count": 305135,
+          "object_count": 0,
+          "proportion": 0.9932779947916667
+        },
+        {
+          "image_name": "set4_train_82.png",
+          "pixel_count": 305262,
+          "object_count": 0,
+          "proportion": 0.99369140625
+        },
+        {
+          "image_name": "set4_train_87.png",
+          "pixel_count": 305254,
+          "object_count": 0,
+          "proportion": 0.9936653645833333
+        },
+        {
+          "image_name": "set4_train_92.png",
+          "pixel_count": 305024,
+          "object_count": 0,
+          "proportion": 0.9929166666666667
+        }
+      ],
+      "num_images": 100
+    },
+    "1": {
+      "class_id": 1,
+      "class_name": "egg",
+      "total_pixels": 45241,
+      "overall_proportion": 0.0014726888020833333,
+      "pixel_statistics": {
+        "mean": 452.41,
+        "std": 511.8406215805853,
+        "median": 176.5,
+        "min": 51,
+        "max": 1545
+      },
+      "proportion_statistics": {
+        "mean": 0.0014726888020833333,
+        "std": 0.0016661478567076345,
+        "median": 0.0005745442708333334
+      },
+      "object_statistics": {
+        "total": 1108,
+        "mean": 11.08,
+        "std": 10.051547144594212,
+        "median": 6.0,
+        "min": 2,
+        "max": 33
+      },
+      "per_image_details": [
+        {
+          "image_name": "set1_10.png",
+          "pixel_count": 479,
+          "object_count": 13,
+          "proportion": 0.0015592447916666667
+        },
+        {
+          "image_name": "set1_12.png",
+          "pixel_count": 454,
+          "object_count": 13,
+          "proportion": 0.0014778645833333334
+        },
+        {
+          "image_name": "set1_13.png",
+          "pixel_count": 503,
+          "object_count": 14,
+          "proportion": 0.0016373697916666667
+        },
+        {
+          "image_name": "set2_0.png",
+          "pixel_count": 164,
+          "object_count": 5,
+          "proportion": 0.0005338541666666666
+        },
+        {
+          "image_name": "set2_1.png",
+          "pixel_count": 172,
+          "object_count": 5,
+          "proportion": 0.0005598958333333334
+        },
+        {
+          "image_name": "set2_11.png",
+          "pixel_count": 142,
+          "object_count": 5,
+          "proportion": 0.00046223958333333333
+        },
+        {
+          "image_name": "set2_12.png",
+          "pixel_count": 145,
+          "object_count": 5,
+          "proportion": 0.00047200520833333334
+        },
+        {
+          "image_name": "set2_13.png",
+          "pixel_count": 168,
+          "object_count": 6,
+          "proportion": 0.000546875
+        },
+        {
+          "image_name": "set2_14.png",
+          "pixel_count": 138,
+          "object_count": 5,
+          "proportion": 0.00044921875
+        },
+        {
+          "image_name": "set2_15.png",
+          "pixel_count": 168,
+          "object_count": 6,
+          "proportion": 0.000546875
+        },
+        {
+          "image_name": "set2_16.png",
+          "pixel_count": 152,
+          "object_count": 5,
+          "proportion": 0.0004947916666666667
+        },
+        {
+          "image_name": "set2_17.png",
+          "pixel_count": 147,
+          "object_count": 5,
+          "proportion": 0.000478515625
+        },
+        {
+          "image_name": "set2_19.png",
+          "pixel_count": 145,
+          "object_count": 5,
+          "proportion": 0.00047200520833333334
+        },
+        {
+          "image_name": "set2_2.png",
+          "pixel_count": 209,
+          "object_count": 6,
+          "proportion": 0.0006803385416666667
+        },
+        {
+          "image_name": "set2_20.png",
+          "pixel_count": 207,
+          "object_count": 6,
+          "proportion": 0.000673828125
+        },
+        {
+          "image_name": "set2_21.png",
+          "pixel_count": 205,
+          "object_count": 6,
+          "proportion": 0.0006673177083333333
+        },
+        {
+          "image_name": "set2_22.png",
+          "pixel_count": 194,
+          "object_count": 6,
+          "proportion": 0.0006315104166666666
+        },
+        {
+          "image_name": "set2_23.png",
+          "pixel_count": 193,
+          "object_count": 6,
+          "proportion": 0.0006282552083333333
+        },
+        {
+          "image_name": "set2_28.png",
+          "pixel_count": 183,
+          "object_count": 7,
+          "proportion": 0.000595703125
+        },
+        {
+          "image_name": "set2_29.png",
+          "pixel_count": 211,
+          "object_count": 7,
+          "proportion": 0.0006868489583333334
+        },
+        {
+          "image_name": "set2_30.png",
+          "pixel_count": 207,
+          "object_count": 7,
+          "proportion": 0.000673828125
+        },
+        {
+          "image_name": "set2_31.png",
+          "pixel_count": 168,
+          "object_count": 6,
+          "proportion": 0.000546875
+        },
+        {
+          "image_name": "set2_32.png",
+          "pixel_count": 186,
+          "object_count": 7,
+          "proportion": 0.00060546875
+        },
+        {
+          "image_name": "set2_33.png",
+          "pixel_count": 185,
+          "object_count": 7,
+          "proportion": 0.0006022135416666667
+        },
+        {
+          "image_name": "set2_34.png",
+          "pixel_count": 204,
+          "object_count": 7,
+          "proportion": 0.0006640625
+        },
+        {
+          "image_name": "set2_36.png",
+          "pixel_count": 52,
+          "object_count": 2,
+          "proportion": 0.00016927083333333334
+        },
+        {
+          "image_name": "set2_37.png",
+          "pixel_count": 51,
+          "object_count": 2,
+          "proportion": 0.000166015625
+        },
+        {
+          "image_name": "set2_40.png",
+          "pixel_count": 98,
+          "object_count": 3,
+          "proportion": 0.00031901041666666666
+        },
+        {
+          "image_name": "set2_41.png",
+          "pixel_count": 146,
+          "object_count": 5,
+          "proportion": 0.0004752604166666667
+        },
+        {
+          "image_name": "set2_42.png",
+          "pixel_count": 123,
+          "object_count": 4,
+          "proportion": 0.000400390625
+        },
+        {
+          "image_name": "set2_43.png",
+          "pixel_count": 121,
+          "object_count": 4,
+          "proportion": 0.0003938802083333333
+        },
+        {
+          "image_name": "set2_44.png",
+          "pixel_count": 136,
+          "object_count": 5,
+          "proportion": 0.0004427083333333333
+        },
+        {
+          "image_name": "set2_45.png",
+          "pixel_count": 195,
+          "object_count": 7,
+          "proportion": 0.000634765625
+        },
+        {
+          "image_name": "set2_46.png",
+          "pixel_count": 134,
+          "object_count": 5,
+          "proportion": 0.00043619791666666666
+        },
+        {
+          "image_name": "set2_47.png",
+          "pixel_count": 195,
+          "object_count": 7,
+          "proportion": 0.000634765625
+        },
+        {
+          "image_name": "set2_48.png",
+          "pixel_count": 175,
+          "object_count": 6,
+          "proportion": 0.0005696614583333334
+        },
+        {
+          "image_name": "set2_49.png",
+          "pixel_count": 168,
+          "object_count": 6,
+          "proportion": 0.000546875
+        },
+        {
+          "image_name": "set2_5.png",
+          "pixel_count": 241,
+          "object_count": 7,
+          "proportion": 0.0007845052083333333
+        },
+        {
+          "image_name": "set2_50.png",
+          "pixel_count": 172,
+          "object_count": 6,
+          "proportion": 0.0005598958333333334
+        },
+        {
+          "image_name": "set2_51.png",
+          "pixel_count": 170,
+          "object_count": 6,
+          "proportion": 0.0005533854166666667
+        },
+        {
+          "image_name": "set2_52.png",
+          "pixel_count": 185,
+          "object_count": 7,
+          "proportion": 0.0006022135416666667
+        },
+        {
+          "image_name": "set2_53.png",
+          "pixel_count": 167,
+          "object_count": 7,
+          "proportion": 0.0005436197916666666
+        },
+        {
+          "image_name": "set2_54.png",
+          "pixel_count": 166,
+          "object_count": 6,
+          "proportion": 0.0005403645833333333
+        },
+        {
+          "image_name": "set2_55.png",
+          "pixel_count": 159,
+          "object_count": 6,
+          "proportion": 0.000517578125
+        },
+        {
+          "image_name": "set2_56.png",
+          "pixel_count": 91,
+          "object_count": 3,
+          "proportion": 0.00029622395833333334
+        },
+        {
+          "image_name": "set2_58.png",
+          "pixel_count": 92,
+          "object_count": 3,
+          "proportion": 0.00029947916666666664
+        },
+        {
+          "image_name": "set2_59.png",
+          "pixel_count": 113,
+          "object_count": 3,
+          "proportion": 0.00036783854166666665
+        },
+        {
+          "image_name": "set2_60.png",
+          "pixel_count": 184,
+          "object_count": 6,
+          "proportion": 0.0005989583333333333
+        },
+        {
+          "image_name": "set2_62.png",
+          "pixel_count": 160,
+          "object_count": 5,
+          "proportion": 0.0005208333333333333
+        },
+        {
+          "image_name": "set2_63.png",
+          "pixel_count": 138,
+          "object_count": 5,
+          "proportion": 0.00044921875
+        },
+        {
+          "image_name": "set2_64.png",
+          "pixel_count": 213,
+          "object_count": 7,
+          "proportion": 0.000693359375
+        },
+        {
+          "image_name": "set2_65.png",
+          "pixel_count": 177,
+          "object_count": 6,
+          "proportion": 0.000576171875
+        },
+        {
+          "image_name": "set2_66.png",
+          "pixel_count": 143,
+          "object_count": 5,
+          "proportion": 0.0004654947916666667
+        },
+        {
+          "image_name": "set2_68.png",
+          "pixel_count": 89,
+          "object_count": 3,
+          "proportion": 0.0002897135416666667
+        },
+        {
+          "image_name": "set2_7.png",
+          "pixel_count": 261,
+          "object_count": 7,
+          "proportion": 0.000849609375
+        },
+        {
+          "image_name": "set2_70.png",
+          "pixel_count": 88,
+          "object_count": 3,
+          "proportion": 0.00028645833333333333
+        },
+        {
+          "image_name": "set2_72.png",
+          "pixel_count": 73,
+          "object_count": 3,
+          "proportion": 0.00023763020833333335
+        },
+        {
+          "image_name": "set2_74.png",
+          "pixel_count": 68,
+          "object_count": 3,
+          "proportion": 0.00022135416666666666
+        },
+        {
+          "image_name": "set2_75.png",
+          "pixel_count": 102,
+          "object_count": 4,
+          "proportion": 0.00033203125
+        },
+        {
+          "image_name": "set2_76.png",
+          "pixel_count": 117,
+          "object_count": 5,
+          "proportion": 0.000380859375
+        },
+        {
+          "image_name": "set2_77.png",
+          "pixel_count": 134,
+          "object_count": 5,
+          "proportion": 0.00043619791666666666
+        },
+        {
+          "image_name": "set2_78.png",
+          "pixel_count": 123,
+          "object_count": 5,
+          "proportion": 0.000400390625
+        },
+        {
+          "image_name": "set2_79.png",
+          "pixel_count": 129,
+          "object_count": 5,
+          "proportion": 0.000419921875
+        },
+        {
+          "image_name": "set2_80.png",
+          "pixel_count": 76,
+          "object_count": 3,
+          "proportion": 0.00024739583333333335
+        },
+        {
+          "image_name": "set2_81.png",
+          "pixel_count": 77,
+          "object_count": 3,
+          "proportion": 0.00025065104166666665
+        },
+        {
+          "image_name": "set2_84.png",
+          "pixel_count": 104,
+          "object_count": 4,
+          "proportion": 0.0003385416666666667
+        },
+        {
+          "image_name": "set2_86.png",
+          "pixel_count": 176,
+          "object_count": 6,
+          "proportion": 0.0005729166666666667
+        },
+        {
+          "image_name": "set2_87.png",
+          "pixel_count": 100,
+          "object_count": 4,
+          "proportion": 0.0003255208333333333
+        },
+        {
+          "image_name": "set2_89.png",
+          "pixel_count": 53,
+          "object_count": 2,
+          "proportion": 0.00017252604166666667
+        },
+        {
+          "image_name": "set2_9.png",
+          "pixel_count": 175,
+          "object_count": 6,
+          "proportion": 0.0005696614583333334
+        },
+        {
+          "image_name": "set2_92.png",
+          "pixel_count": 85,
+          "object_count": 3,
+          "proportion": 0.0002766927083333333
+        },
+        {
+          "image_name": "set2_94.png",
+          "pixel_count": 83,
+          "object_count": 3,
+          "proportion": 0.00027018229166666667
+        },
+        {
+          "image_name": "set2_96.png",
+          "pixel_count": 182,
+          "object_count": 6,
+          "proportion": 0.0005924479166666667
+        },
+        {
+          "image_name": "set2_98.png",
+          "pixel_count": 179,
+          "object_count": 6,
+          "proportion": 0.0005826822916666667
+        },
+        {
+          "image_name": "set2_99.png",
+          "pixel_count": 179,
+          "object_count": 6,
+          "proportion": 0.0005826822916666667
+        },
+        {
+          "image_name": "set4_train_100.png",
+          "pixel_count": 1270,
+          "object_count": 26,
+          "proportion": 0.004134114583333333
+        },
+        {
+          "image_name": "set4_train_102.png",
+          "pixel_count": 1238,
+          "object_count": 26,
+          "proportion": 0.004029947916666667
+        },
+        {
+          "image_name": "set4_train_111.png",
+          "pixel_count": 1343,
+          "object_count": 26,
+          "proportion": 0.004371744791666667
+        },
+        {
+          "image_name": "set4_train_115.png",
+          "pixel_count": 1235,
+          "object_count": 26,
+          "proportion": 0.004020182291666666
+        },
+        {
+          "image_name": "set4_train_120.png",
+          "pixel_count": 1234,
+          "object_count": 26,
+          "proportion": 0.004016927083333333
+        },
+        {
+          "image_name": "set4_train_125.png",
+          "pixel_count": 1433,
+          "object_count": 30,
+          "proportion": 0.004664713541666666
+        },
+        {
+          "image_name": "set4_train_127.png",
+          "pixel_count": 1419,
+          "object_count": 30,
+          "proportion": 0.004619140625
+        },
+        {
+          "image_name": "set4_train_130.png",
+          "pixel_count": 1433,
+          "object_count": 30,
+          "proportion": 0.004664713541666666
+        },
+        {
+          "image_name": "set4_train_133.png",
+          "pixel_count": 1394,
+          "object_count": 30,
+          "proportion": 0.0045377604166666665
+        },
+        {
+          "image_name": "set4_train_135.png",
+          "pixel_count": 1378,
+          "object_count": 30,
+          "proportion": 0.004485677083333334
+        },
+        {
+          "image_name": "set4_train_160.png",
+          "pixel_count": 1458,
+          "object_count": 33,
+          "proportion": 0.00474609375
+        },
+        {
+          "image_name": "set4_train_163.png",
+          "pixel_count": 1545,
+          "object_count": 33,
+          "proportion": 0.005029296875
+        },
+        {
+          "image_name": "set4_train_170.png",
+          "pixel_count": 1487,
+          "object_count": 33,
+          "proportion": 0.004840494791666667
+        },
+        {
+          "image_name": "set4_train_172.png",
+          "pixel_count": 1496,
+          "object_count": 33,
+          "proportion": 0.004869791666666666
+        },
+        {
+          "image_name": "set4_train_173.png",
+          "pixel_count": 1474,
+          "object_count": 33,
+          "proportion": 0.004798177083333333
+        },
+        {
+          "image_name": "set4_train_50.png",
+          "pixel_count": 1093,
+          "object_count": 24,
+          "proportion": 0.0035579427083333335
+        },
+        {
+          "image_name": "set4_train_52.png",
+          "pixel_count": 1121,
+          "object_count": 24,
+          "proportion": 0.003649088541666667
+        },
+        {
+          "image_name": "set4_train_53.png",
+          "pixel_count": 1159,
+          "object_count": 24,
+          "proportion": 0.0037727864583333333
+        },
+        {
+          "image_name": "set4_train_60.png",
+          "pixel_count": 1155,
+          "object_count": 24,
+          "proportion": 0.003759765625
+        },
+        {
+          "image_name": "set4_train_63.png",
+          "pixel_count": 1096,
+          "object_count": 23,
+          "proportion": 0.0035677083333333333
+        },
+        {
+          "image_name": "set4_train_77.png",
+          "pixel_count": 1336,
+          "object_count": 27,
+          "proportion": 0.004348958333333333
+        },
+        {
+          "image_name": "set4_train_80.png",
+          "pixel_count": 1304,
+          "object_count": 27,
+          "proportion": 0.004244791666666667
+        },
+        {
+          "image_name": "set4_train_82.png",
+          "pixel_count": 1319,
+          "object_count": 27,
+          "proportion": 0.0042936197916666665
+        },
+        {
+          "image_name": "set4_train_87.png",
+          "pixel_count": 1357,
+          "object_count": 27,
+          "proportion": 0.004417317708333333
+        },
+        {
+          "image_name": "set4_train_92.png",
+          "pixel_count": 1317,
+          "object_count": 27,
+          "proportion": 0.004287109375
+        }
+      ],
+      "num_images": 100
+    },
+    "2": {
+      "class_id": 2,
+      "class_name": "tip",
+      "total_pixels": 57127,
+      "overall_proportion": 0.0018596028645833332,
+      "pixel_statistics": {
+        "mean": 571.27,
+        "std": 204.2183074555266,
+        "median": 535.5,
+        "min": 186,
+        "max": 1079
+      },
+      "proportion_statistics": {
+        "mean": 0.0018596028645833334,
+        "std": 0.000664773136248459,
+        "median": 0.0017431640625000001
+      },
+      "object_statistics": {
+        "total": 100,
+        "mean": 1.0,
+        "std": 0.0,
+        "median": 1.0,
+        "min": 1,
+        "max": 1
+      },
+      "per_image_details": [
+        {
+          "image_name": "set1_10.png",
+          "pixel_count": 501,
+          "object_count": 1,
+          "proportion": 0.001630859375
+        },
+        {
+          "image_name": "set1_12.png",
+          "pixel_count": 611,
+          "object_count": 1,
+          "proportion": 0.0019889322916666666
+        },
+        {
+          "image_name": "set1_13.png",
+          "pixel_count": 437,
+          "object_count": 1,
+          "proportion": 0.0014225260416666668
+        },
+        {
+          "image_name": "set2_0.png",
+          "pixel_count": 509,
+          "object_count": 1,
+          "proportion": 0.0016569010416666668
+        },
+        {
+          "image_name": "set2_1.png",
+          "pixel_count": 228,
+          "object_count": 1,
+          "proportion": 0.0007421875
+        },
+        {
+          "image_name": "set2_11.png",
+          "pixel_count": 281,
+          "object_count": 1,
+          "proportion": 0.0009147135416666666
+        },
+        {
+          "image_name": "set2_12.png",
+          "pixel_count": 352,
+          "object_count": 1,
+          "proportion": 0.0011458333333333333
+        },
+        {
+          "image_name": "set2_13.png",
+          "pixel_count": 490,
+          "object_count": 1,
+          "proportion": 0.0015950520833333333
+        },
+        {
+          "image_name": "set2_14.png",
+          "pixel_count": 541,
+          "object_count": 1,
+          "proportion": 0.0017610677083333332
+        },
+        {
+          "image_name": "set2_15.png",
+          "pixel_count": 578,
+          "object_count": 1,
+          "proportion": 0.0018815104166666667
+        },
+        {
+          "image_name": "set2_16.png",
+          "pixel_count": 420,
+          "object_count": 1,
+          "proportion": 0.0013671875
+        },
+        {
+          "image_name": "set2_17.png",
+          "pixel_count": 535,
+          "object_count": 1,
+          "proportion": 0.0017415364583333334
+        },
+        {
+          "image_name": "set2_19.png",
+          "pixel_count": 630,
+          "object_count": 1,
+          "proportion": 0.00205078125
+        },
+        {
+          "image_name": "set2_2.png",
+          "pixel_count": 518,
+          "object_count": 1,
+          "proportion": 0.0016861979166666666
+        },
+        {
+          "image_name": "set2_20.png",
+          "pixel_count": 486,
+          "object_count": 1,
+          "proportion": 0.00158203125
+        },
+        {
+          "image_name": "set2_21.png",
+          "pixel_count": 513,
+          "object_count": 1,
+          "proportion": 0.001669921875
+        },
+        {
+          "image_name": "set2_22.png",
+          "pixel_count": 590,
+          "object_count": 1,
+          "proportion": 0.0019205729166666666
+        },
+        {
+          "image_name": "set2_23.png",
+          "pixel_count": 626,
+          "object_count": 1,
+          "proportion": 0.0020377604166666665
+        },
+        {
+          "image_name": "set2_28.png",
+          "pixel_count": 283,
+          "object_count": 1,
+          "proportion": 0.0009212239583333334
+        },
+        {
+          "image_name": "set2_29.png",
+          "pixel_count": 555,
+          "object_count": 1,
+          "proportion": 0.001806640625
+        },
+        {
+          "image_name": "set2_30.png",
+          "pixel_count": 566,
+          "object_count": 1,
+          "proportion": 0.0018424479166666667
+        },
+        {
+          "image_name": "set2_31.png",
+          "pixel_count": 499,
+          "object_count": 1,
+          "proportion": 0.0016243489583333333
+        },
+        {
+          "image_name": "set2_32.png",
+          "pixel_count": 504,
+          "object_count": 1,
+          "proportion": 0.001640625
+        },
+        {
+          "image_name": "set2_33.png",
+          "pixel_count": 502,
+          "object_count": 1,
+          "proportion": 0.0016341145833333333
+        },
+        {
+          "image_name": "set2_34.png",
+          "pixel_count": 503,
+          "object_count": 1,
+          "proportion": 0.0016373697916666667
+        },
+        {
+          "image_name": "set2_36.png",
+          "pixel_count": 521,
+          "object_count": 1,
+          "proportion": 0.0016959635416666666
+        },
+        {
+          "image_name": "set2_37.png",
+          "pixel_count": 262,
+          "object_count": 1,
+          "proportion": 0.0008528645833333333
+        },
+        {
+          "image_name": "set2_40.png",
+          "pixel_count": 507,
+          "object_count": 1,
+          "proportion": 0.001650390625
+        },
+        {
+          "image_name": "set2_41.png",
+          "pixel_count": 646,
+          "object_count": 1,
+          "proportion": 0.0021028645833333333
+        },
+        {
+          "image_name": "set2_42.png",
+          "pixel_count": 619,
+          "object_count": 1,
+          "proportion": 0.0020149739583333335
+        },
+        {
+          "image_name": "set2_43.png",
+          "pixel_count": 186,
+          "object_count": 1,
+          "proportion": 0.00060546875
+        },
+        {
+          "image_name": "set2_44.png",
+          "pixel_count": 596,
+          "object_count": 1,
+          "proportion": 0.0019401041666666666
+        },
+        {
+          "image_name": "set2_45.png",
+          "pixel_count": 536,
+          "object_count": 1,
+          "proportion": 0.0017447916666666666
+        },
+        {
+          "image_name": "set2_46.png",
+          "pixel_count": 391,
+          "object_count": 1,
+          "proportion": 0.0012727864583333332
+        },
+        {
+          "image_name": "set2_47.png",
+          "pixel_count": 392,
+          "object_count": 1,
+          "proportion": 0.0012760416666666666
+        },
+        {
+          "image_name": "set2_48.png",
+          "pixel_count": 467,
+          "object_count": 1,
+          "proportion": 0.0015201822916666666
+        },
+        {
+          "image_name": "set2_49.png",
+          "pixel_count": 528,
+          "object_count": 1,
+          "proportion": 0.00171875
+        },
+        {
+          "image_name": "set2_5.png",
+          "pixel_count": 432,
+          "object_count": 1,
+          "proportion": 0.00140625
+        },
+        {
+          "image_name": "set2_50.png",
+          "pixel_count": 542,
+          "object_count": 1,
+          "proportion": 0.0017643229166666666
+        },
+        {
+          "image_name": "set2_51.png",
+          "pixel_count": 547,
+          "object_count": 1,
+          "proportion": 0.0017805989583333333
+        },
+        {
+          "image_name": "set2_52.png",
+          "pixel_count": 520,
+          "object_count": 1,
+          "proportion": 0.0016927083333333334
+        },
+        {
+          "image_name": "set2_53.png",
+          "pixel_count": 325,
+          "object_count": 1,
+          "proportion": 0.0010579427083333333
+        },
+        {
+          "image_name": "set2_54.png",
+          "pixel_count": 414,
+          "object_count": 1,
+          "proportion": 0.00134765625
+        },
+        {
+          "image_name": "set2_55.png",
+          "pixel_count": 462,
+          "object_count": 1,
+          "proportion": 0.00150390625
+        },
+        {
+          "image_name": "set2_56.png",
+          "pixel_count": 319,
+          "object_count": 1,
+          "proportion": 0.0010384114583333332
+        },
+        {
+          "image_name": "set2_58.png",
+          "pixel_count": 614,
+          "object_count": 1,
+          "proportion": 0.001998697916666667
+        },
+        {
+          "image_name": "set2_59.png",
+          "pixel_count": 625,
+          "object_count": 1,
+          "proportion": 0.0020345052083333335
+        },
+        {
+          "image_name": "set2_60.png",
+          "pixel_count": 586,
+          "object_count": 1,
+          "proportion": 0.0019075520833333334
+        },
+        {
+          "image_name": "set2_62.png",
+          "pixel_count": 504,
+          "object_count": 1,
+          "proportion": 0.001640625
+        },
+        {
+          "image_name": "set2_63.png",
+          "pixel_count": 523,
+          "object_count": 1,
+          "proportion": 0.0017024739583333334
+        },
+        {
+          "image_name": "set2_64.png",
+          "pixel_count": 524,
+          "object_count": 1,
+          "proportion": 0.0017057291666666666
+        },
+        {
+          "image_name": "set2_65.png",
+          "pixel_count": 299,
+          "object_count": 1,
+          "proportion": 0.0009733072916666667
+        },
+        {
+          "image_name": "set2_66.png",
+          "pixel_count": 278,
+          "object_count": 1,
+          "proportion": 0.0009049479166666666
+        },
+        {
+          "image_name": "set2_68.png",
+          "pixel_count": 393,
+          "object_count": 1,
+          "proportion": 0.001279296875
+        },
+        {
+          "image_name": "set2_7.png",
+          "pixel_count": 367,
+          "object_count": 1,
+          "proportion": 0.0011946614583333334
+        },
+        {
+          "image_name": "set2_70.png",
+          "pixel_count": 271,
+          "object_count": 1,
+          "proportion": 0.0008821614583333333
+        },
+        {
+          "image_name": "set2_72.png",
+          "pixel_count": 645,
+          "object_count": 1,
+          "proportion": 0.002099609375
+        },
+        {
+          "image_name": "set2_74.png",
+          "pixel_count": 550,
+          "object_count": 1,
+          "proportion": 0.0017903645833333333
+        },
+        {
+          "image_name": "set2_75.png",
+          "pixel_count": 551,
+          "object_count": 1,
+          "proportion": 0.0017936197916666667
+        },
+        {
+          "image_name": "set2_76.png",
+          "pixel_count": 565,
+          "object_count": 1,
+          "proportion": 0.0018391927083333333
+        },
+        {
+          "image_name": "set2_77.png",
+          "pixel_count": 389,
+          "object_count": 1,
+          "proportion": 0.0012662760416666666
+        },
+        {
+          "image_name": "set2_78.png",
+          "pixel_count": 450,
+          "object_count": 1,
+          "proportion": 0.00146484375
+        },
+        {
+          "image_name": "set2_79.png",
+          "pixel_count": 388,
+          "object_count": 1,
+          "proportion": 0.0012630208333333332
+        },
+        {
+          "image_name": "set2_80.png",
+          "pixel_count": 402,
+          "object_count": 1,
+          "proportion": 0.00130859375
+        },
+        {
+          "image_name": "set2_81.png",
+          "pixel_count": 521,
+          "object_count": 1,
+          "proportion": 0.0016959635416666666
+        },
+        {
+          "image_name": "set2_84.png",
+          "pixel_count": 660,
+          "object_count": 1,
+          "proportion": 0.0021484375
+        },
+        {
+          "image_name": "set2_86.png",
+          "pixel_count": 212,
+          "object_count": 1,
+          "proportion": 0.0006901041666666667
+        },
+        {
+          "image_name": "set2_87.png",
+          "pixel_count": 546,
+          "object_count": 1,
+          "proportion": 0.00177734375
+        },
+        {
+          "image_name": "set2_89.png",
+          "pixel_count": 527,
+          "object_count": 1,
+          "proportion": 0.0017154947916666666
+        },
+        {
+          "image_name": "set2_9.png",
+          "pixel_count": 467,
+          "object_count": 1,
+          "proportion": 0.0015201822916666666
+        },
+        {
+          "image_name": "set2_92.png",
+          "pixel_count": 549,
+          "object_count": 1,
+          "proportion": 0.001787109375
+        },
+        {
+          "image_name": "set2_94.png",
+          "pixel_count": 513,
+          "object_count": 1,
+          "proportion": 0.001669921875
+        },
+        {
+          "image_name": "set2_96.png",
+          "pixel_count": 563,
+          "object_count": 1,
+          "proportion": 0.0018326822916666667
+        },
+        {
+          "image_name": "set2_98.png",
+          "pixel_count": 310,
+          "object_count": 1,
+          "proportion": 0.0010091145833333334
+        },
+        {
+          "image_name": "set2_99.png",
+          "pixel_count": 315,
+          "object_count": 1,
+          "proportion": 0.001025390625
+        },
+        {
+          "image_name": "set4_train_100.png",
+          "pixel_count": 933,
+          "object_count": 1,
+          "proportion": 0.003037109375
+        },
+        {
+          "image_name": "set4_train_102.png",
+          "pixel_count": 878,
+          "object_count": 1,
+          "proportion": 0.0028580729166666667
+        },
+        {
+          "image_name": "set4_train_111.png",
+          "pixel_count": 952,
+          "object_count": 1,
+          "proportion": 0.0030989583333333333
+        },
+        {
+          "image_name": "set4_train_115.png",
+          "pixel_count": 771,
+          "object_count": 1,
+          "proportion": 0.002509765625
+        },
+        {
+          "image_name": "set4_train_120.png",
+          "pixel_count": 813,
+          "object_count": 1,
+          "proportion": 0.002646484375
+        },
+        {
+          "image_name": "set4_train_125.png",
+          "pixel_count": 642,
+          "object_count": 1,
+          "proportion": 0.00208984375
+        },
+        {
+          "image_name": "set4_train_127.png",
+          "pixel_count": 886,
+          "object_count": 1,
+          "proportion": 0.002884114583333333
+        },
+        {
+          "image_name": "set4_train_130.png",
+          "pixel_count": 970,
+          "object_count": 1,
+          "proportion": 0.0031575520833333334
+        },
+        {
+          "image_name": "set4_train_133.png",
+          "pixel_count": 957,
+          "object_count": 1,
+          "proportion": 0.003115234375
+        },
+        {
+          "image_name": "set4_train_135.png",
+          "pixel_count": 932,
+          "object_count": 1,
+          "proportion": 0.0030338541666666665
+        },
+        {
+          "image_name": "set4_train_160.png",
+          "pixel_count": 1012,
+          "object_count": 1,
+          "proportion": 0.0032942708333333335
+        },
+        {
+          "image_name": "set4_train_163.png",
+          "pixel_count": 966,
+          "object_count": 1,
+          "proportion": 0.00314453125
+        },
+        {
+          "image_name": "set4_train_170.png",
+          "pixel_count": 743,
+          "object_count": 1,
+          "proportion": 0.0024186197916666666
+        },
+        {
+          "image_name": "set4_train_172.png",
+          "pixel_count": 940,
+          "object_count": 1,
+          "proportion": 0.0030598958333333333
+        },
+        {
+          "image_name": "set4_train_173.png",
+          "pixel_count": 883,
+          "object_count": 1,
+          "proportion": 0.0028743489583333334
+        },
+        {
+          "image_name": "set4_train_50.png",
+          "pixel_count": 882,
+          "object_count": 1,
+          "proportion": 0.00287109375
+        },
+        {
+          "image_name": "set4_train_52.png",
+          "pixel_count": 798,
+          "object_count": 1,
+          "proportion": 0.00259765625
+        },
+        {
+          "image_name": "set4_train_53.png",
+          "pixel_count": 839,
+          "object_count": 1,
+          "proportion": 0.002731119791666667
+        },
+        {
+          "image_name": "set4_train_60.png",
+          "pixel_count": 904,
+          "object_count": 1,
+          "proportion": 0.002942708333333333
+        },
+        {
+          "image_name": "set4_train_63.png",
+          "pixel_count": 1079,
+          "object_count": 1,
+          "proportion": 0.0035123697916666667
+        },
+        {
+          "image_name": "set4_train_77.png",
+          "pixel_count": 942,
+          "object_count": 1,
+          "proportion": 0.00306640625
+        },
+        {
+          "image_name": "set4_train_80.png",
+          "pixel_count": 761,
+          "object_count": 1,
+          "proportion": 0.0024772135416666666
+        },
+        {
+          "image_name": "set4_train_82.png",
+          "pixel_count": 619,
+          "object_count": 1,
+          "proportion": 0.0020149739583333335
+        },
+        {
+          "image_name": "set4_train_87.png",
+          "pixel_count": 589,
+          "object_count": 1,
+          "proportion": 0.0019173177083333334
+        },
+        {
+          "image_name": "set4_train_92.png",
+          "pixel_count": 859,
+          "object_count": 1,
+          "proportion": 0.0027962239583333333
+        }
+      ],
+      "num_images": 100
+    }
+  },
+  "loss_weights": {
+    "inverse_frequency": {
+      "0": 1.003343432960459,
+      "1": 679.0300833314914,
+      "2": 537.7492254100513
+    },
+    "balanced": {
+      "0": 0.001865820322094145,
+      "1": 1.2627262881015007,
+      "2": 1.0
+    },
+    "sqrt_inverse_frequency": {
+      "0": 1.001670321493284,
+      "1": 26.05820568134904,
+      "2": 23.189420549251576
+    },
+    "normalized_inverse_frequency": {
+      "0": 1.0,
+      "1": 676.7673570433898,
+      "2": 535.9572881474609
+    },
+    "normalized_balanced": {
+      "0": 1.0,
+      "1": 676.7673570433898,
+      "2": 535.9572881474609
+    }
+  }
+}

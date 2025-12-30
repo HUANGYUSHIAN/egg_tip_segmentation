@@ -1,0 +1,17 @@
+# YOLO 數據集配置文件
+# 用於圖像分割任務
+
+# 數據集路徑 (相對於此文件或絕對路徑)
+path: .  # 數據集根目錄
+train: Final/train/images  # 訓練集圖像目錄
+val: Final/val/images      # 驗證集圖像目錄
+test: Final/test/images    # 測試集圖像目錄 (可選)
+
+# 類別數量
+nc: 2
+
+# 類別名稱
+names:
+  0: egg  # 雞蛋
+  1: broken_egg  # 破損雞蛋
+

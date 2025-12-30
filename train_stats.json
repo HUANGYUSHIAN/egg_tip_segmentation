@@ -1,0 +1,90 @@
+{
+  "total_pixels": 30720000,
+  "num_images": 100,
+  "statistics": {
+    "0": {
+      "class_id": 0,
+      "class_name": "background",
+      "total_pixels": 30617632,
+      "overall_proportion": 0.9966677083333333,
+      "pixel_statistics": {
+        "mean": 306176.32,
+        "std": 687.7441803461516,
+        "median": 306494.5,
+        "min": 304689,
+        "max": 306893
+      },
+      "proportion_statistics": {
+        "mean": 0.9966677083333333,
+        "std": 0.002238750587064297,
+        "median": 0.9977034505208333
+      },
+      "num_images": 100
+    },
+    "1": {
+      "class_id": 1,
+      "class_name": "class_0",
+      "total_pixels": 45241,
+      "overall_proportion": 0.0014726888020833333,
+      "pixel_statistics": {
+        "mean": 452.41,
+        "std": 511.8406215805853,
+        "median": 176.5,
+        "min": 51,
+        "max": 1545
+      },
+      "proportion_statistics": {
+        "mean": 0.0014726888020833333,
+        "std": 0.0016661478567076345,
+        "median": 0.0005745442708333334
+      },
+      "num_images": 100
+    },
+    "2": {
+      "class_id": 2,
+      "class_name": "class_1",
+      "total_pixels": 57127,
+      "overall_proportion": 0.0018596028645833332,
+      "pixel_statistics": {
+        "mean": 571.27,
+        "std": 204.2183074555266,
+        "median": 535.5,
+        "min": 186,
+        "max": 1079
+      },
+      "proportion_statistics": {
+        "mean": 0.0018596028645833334,
+        "std": 0.000664773136248459,
+        "median": 0.0017431640625000001
+      },
+      "num_images": 100
+    }
+  },
+  "loss_weights": {
+    "inverse_frequency": {
+      "0": 1.003343432960459,
+      "1": 679.0300833314914,
+      "2": 537.7492254100513
+    },
+    "balanced": {
+      "0": 0.001865820322094145,
+      "1": 1.2627262881015007,
+      "2": 1.0
+    },
+    "sqrt_inverse_frequency": {
+      "0": 1.001670321493284,
+      "1": 26.05820568134904,
+      "2": 23.189420549251576
+    },
+    "normalized_inverse_frequency": {
+      "0": 1.0,
+      "1": 676.7673570433898,
+      "2": 535.9572881474609
+    },
+    "normalized_balanced": {
+      "0": 1.0,
+      "1": 676.7673570433898,
+      "2": 535.9572881474609
+    }
+  }
+}
