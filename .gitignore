@@ -2,6 +2,7 @@
 Final/train/masks/
 Final/val/masks/
 Final/test/masks/
+Final_clip/
 
 # 忽略訓練結果和日誌
 logs/
